@@ -1,0 +1,7 @@
+{
+  "name": "Gramática Mágica - 2º Ciclo",
+  "description": "Uma plataforma interativa e visualmente cativante para alunos do 2º ciclo praticarem gramática portuguesa com auxílio de IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
